@@ -1,0 +1,19 @@
+body{
+    /* width: 100vw; */
+    height: 100vh;
+    margin: 0;
+    background: black;
+    /* overflow: hidden; */
+    position: relative;
+}
+.secciones{
+    height: 2000px;
+    position: absolute;
+}
+p{
+    color: white;
+    border: 1px solid red;    
+}
+.texto{
+    justify-content: center;
+}
